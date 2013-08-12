@@ -1,6 +1,6 @@
 # ColorizeUnpermittedParameters
 
-TODO: Write a gem description
+Colorize `Strong Parameters` warning message.
 
 ## Installation
 
